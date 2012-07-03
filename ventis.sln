@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ventis", "ventis.csproj", "{FF576C8B-5744-4D93-8EFA-9EC1E7F45B30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF576C8B-5744-4D93-8EFA-9EC1E7F45B30}.Debug|x86.ActiveCfg = Debug|x86
+		{FF576C8B-5744-4D93-8EFA-9EC1E7F45B30}.Debug|x86.Build.0 = Debug|x86
+		{FF576C8B-5744-4D93-8EFA-9EC1E7F45B30}.Release|x86.ActiveCfg = Release|x86
+		{FF576C8B-5744-4D93-8EFA-9EC1E7F45B30}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ventis.csproj
+	EndGlobalSection
+EndGlobal
